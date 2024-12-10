@@ -1,0 +1,21 @@
+[submodule "tmux-sensible"]
+	path = tmux-sensible
+	url = git@github.com:tmux-plugins/tmux-sensible.git
+[submodule "Learn-Vim"]
+	path = Learn-Vim
+	url = git@github.com:iggredible/Learn-Vim.git
+[submodule ".tmux"]
+	path = .tmux
+	url = git@github.com:gpakosz/.tmux.git
+[submodule "pure-bash-bible"]
+	path = pure-bash-bible
+	url = git@github.com:dylanaraps/pure-bash-bible.git
+[submodule "wizardly-tips-vim"]
+	path = wizardly-tips-vim
+	url = git@github.com:adrianlarion/wizardly-tips-vim.git
+[submodule "simple-awk"]
+	path = simple-awk
+	url = git@github.com:adrianlarion/simple-awk.git
+[submodule "useful-sed"]
+	path = useful-sed
+	url = git@github.com:adrianlarion/useful-sed.git
